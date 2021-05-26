@@ -1,4 +1,4 @@
-# EXIST_2021
+# EXIST 2021
 Sexism Identification in Social Networks task proposal.
 
 ## About The Project

@@ -15,4 +15,4 @@ With the purpose of being the best possible in the ranking of the task, we have 
 
 ## Learn More
 If you want to see a more detailed explanation of our proposals, we invite you to read our task paper:
-* [Paper](https://drive.google.com/file/d/1wSuUKE_FEj4Xo3NY4bxHHPNsBUlqP5Yc/view?format=pdf)
+* [Paper](http://ceur-ws.org/Vol-2943/exist_paper3.pdf)
